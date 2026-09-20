@@ -1,3 +1,8 @@
+---
+layout: ../../layouts/ArticleLayout.astro
+title: Astroブログのセットアップ
+---
+
 # Astroブログのセットアップ
 
 技術の学習記録を残すため、Astroでブログを作り始めた。
